@@ -87,3 +87,12 @@ ul {
     outline: none;
     transition: background-color 1s ease-out;
 }
+
+.alert {
+    text-align: center;
+    padding: .5rem;
+    background-color: green;
+    color: #fff;
+    margin-bottom: .5rem;
+    display: none;
+}
